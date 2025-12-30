@@ -78,6 +78,8 @@ data.h5
 │   └── attrs: scanrate, nonoverlap, ...
 └── umap_maprange               # UMAP axis limits (optional)
 ```
+You can find the data in Zenodo:
+https://doi.org/10.5281/zenodo.18100613
 
 ## Workflow
 
