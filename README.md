@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Quick Start
 
 ```bash
-python -m semi_automated_clustering path/to/your/data.h5
+python clustering_app.py path/to/your/data.h5
 ```
 
 ## Keyboard Controls
